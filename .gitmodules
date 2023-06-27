@@ -1,0 +1,9 @@
+[submodule "Server-WebEcommerce"]
+	path = Server-WebEcommerce
+	url = https://github.com/Khang2501/Server-WebEcommerce.git
+[submodule "Web-ecommerce"]
+	path = Web-ecommerce
+	url = https://github.com/Khang2501/Web-ecommerce.git
+[submodule "Admin-Ecommerce"]
+	path = Admin-Ecommerce
+	url = https://github.com/hongvukhang/Admin-Ecommerce.git
